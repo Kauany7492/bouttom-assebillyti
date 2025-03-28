@@ -97,7 +97,6 @@ h2 {
     top:2rem;
     right:20px;
     z-index: 1000;
-    background-color: #CB6D43;
 }
 .rotacao-botao{
     transform: rotate(-90deg);
@@ -108,10 +107,12 @@ h2 {
     margin-top:10px;
     display: flex;
     flex-direction: column;
+    background-color: #CB6D43;
 }
 
 .opcoes-acessibilidade button{
     margin-bottom: 5px;
+    background-color: #CB6D43;
 }
 .apresenta-lista{
     display: none;
